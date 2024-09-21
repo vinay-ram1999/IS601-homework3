@@ -1,4 +1,6 @@
-# Homework 2
+# Homework 3
+
+Removed remote origin from my Homework 2 local repository and added a new remote origin to this GitHub repo (Now this repo contains all the contents of Homework2 master branch)
 
 ## Install
 
