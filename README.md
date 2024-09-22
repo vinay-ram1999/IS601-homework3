@@ -32,7 +32,8 @@ Note: The `my_test.py` file is used to directly run and check the calculator out
 # Edit venv/bin/activate
 nano venv/bin/activate
 
-# Add this line with the path to your projects root folder (the parent directory of calculator folder in your project)
+# Add this line at the end of the file
+# Use path to your project root folder (the parent directory of calculator folder in your project)
 export PYTHONPATH='/user/name/path/to/the/folder'
 
 # Add this line in the deactivate function
