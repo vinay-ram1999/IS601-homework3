@@ -6,7 +6,7 @@ Removed remote origin from my Homework 2 local repository and added a new remote
 
 * To install this application in your local machine:
 ```
-git clone git@github.com:vinay-ram1999/IS601-homework2.git
+git clone git@github.com:vinay-ram1999/IS601-homework3.git
 pip3 install -r requirements.txt
 ```
 
