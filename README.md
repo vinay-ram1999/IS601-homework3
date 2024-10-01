@@ -2,7 +2,8 @@
 
 This repo is generated from HW2 repo, now contains HW3 and HW4 contents.
 
-* Installed `Faker` and tested
+* Installed `Faker` and tested for both single input and dual input
+* Implemented main.py and tested for both single and dual input cases
 
 ## Install
 
