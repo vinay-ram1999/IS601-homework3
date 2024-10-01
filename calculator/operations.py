@@ -18,7 +18,7 @@ def divide(a: Decimal, b: Decimal) -> Decimal:
 
 def sigma(n: int) -> int:
     """Sum of n numbers"""
-    if n <= 0:
+    if n < 0:
         raise ValueError("Please enter an integer > 0")
     return n*(n+1)/2
 
