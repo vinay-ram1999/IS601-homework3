@@ -1,6 +1,8 @@
-# Homework 3
+# Homework 3+4
 
-Removed remote origin from my Homework 2 local repository and added a new remote origin to this GitHub repo (Now this repo contains all the contents of Homework2 master branch)
+This repo is generated from HW2 repo, now contains HW3 and HW4 contents.
+
+* Installed `Faker` and tested
 
 ## Install
 
